@@ -45,11 +45,10 @@ Manpower Managing System is a way to reduce the human effort spent when controll
 * 30 minutes job modification time for company.
 
 ### 0.1.7 Technologies Used
-*Php
-*Bootstrap
-*Javascript
-*ChartJS
-*Ajax
-*JQuery
-*SQL
-
+*Php.
+*Bootstrap.
+*Javascript.
+*ChartJS.
+*Ajax.
+*JQuery.
+*SQL.
