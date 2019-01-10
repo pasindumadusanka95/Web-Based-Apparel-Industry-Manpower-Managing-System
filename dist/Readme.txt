@@ -1,0 +1,1 @@
+CSS and Javascript files requiered for files in pages folder
